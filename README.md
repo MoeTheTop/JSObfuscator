@@ -1,8 +1,8 @@
 Key features:
 
-variables renaming
-strings extraction and encryption
-dead code injection
+Variable Renaming
+Strings Extraction and Encryption
+Dead Code Injection
 control flow flattening
 various code transformations
 and more...
