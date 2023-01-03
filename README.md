@@ -6,3 +6,5 @@ Dead Code Injection,
 Control Flow Flattening,
 Various Code Transformations,
 And More...
+
+How to use: 
